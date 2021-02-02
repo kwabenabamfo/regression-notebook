@@ -1,2 +1,2 @@
 # regression-work
-A notebook where I showcase some work with regression
+A notebook where I showcase my expertise with regression
